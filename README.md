@@ -41,18 +41,6 @@ javac -d bin src/*.java
 java -cp bin Cal
 ```
 
-## Project Structure
-
-```
-/your-repo-name
-├── LICENSE           # Eclipse Public License 2.0
-├── README.md         # Project overview and instructions
-├── .gitignore        # Files and directories to ignore
-├── src               # Java source files
-│   └── Cal.java      # Main calculator implementation
-└── bin               # Compiled class files (generated after build)
-```
-
 ## Author
 
 Shan Cai
